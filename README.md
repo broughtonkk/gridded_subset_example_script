@@ -44,7 +44,7 @@ The current Daymet NCSS has a size limit of 6GB for each single subset request. 
 
 ## Understanding the NCSS REST API
 
-Visit the Web Services page for further description of THREDDS, the NCSS GUI, and an explanation of bounding box results.
+Visit the [Web Services](https://daymet.ornl.gov/web_services) page for further description of THREDDS, the NCSS GUI, and an explanation of bounding box results.
 In general, all Daymet data granules available through the NCSS follow this URL pattern:
 
     https://thredds.daac.ornl.gov/thredds/ncss/grid/ornldaac/1328/`[YEAR]/daymet_v3_[DAYMETVAR]_[YEAR]_[region].nc4
