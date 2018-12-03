@@ -10,7 +10,7 @@
 
 Example bash scripts are provided that automate spatial and/or temporal subsetting and download of netCDF files within a bounding box of longitude and latitude. This example queries Daymet daily gridded data. This capability is available through a THREDDS Data Server with an integrated NetCDF Subset Service (NCSS) using a RESTful API. Interactive requests can be automated through programmatic, machine-to-machine requests which involve the construction and submission of an HTTP request to the THREDDS data server through an extended URL with defined parameters. Further automation is possible with a downloading agent such as Wget. Subsets are returned in CF-compliant netCDF formats.
 
-![NCSS in GSMNP LCC with minimum bounding geometry](NCSS_GSMNP_LCCboundingbox_withMinimumBoundingGeometry.png)
+![NCSS in GSMNP LCC with minimum bounding geometry](NCSS_GSMNP_LCCboundingbox_withMinimumBoundingGeometry2.png)
 
 ## Source Data
 
